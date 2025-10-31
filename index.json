@@ -10,6 +10,8 @@
     "manufacturerName": [
       "Xiaomi"
     ],
-    "modelId": "LYWSD03MMC-z"
+    "modelId": "LYWSD03MMC-z",
+    "force": true
   }
+
 ]
